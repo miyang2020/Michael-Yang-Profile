@@ -1,4 +1,4 @@
-# Michael Yang
+## about me
 ## Skills
 1. Technical writing
 2. Python programming
